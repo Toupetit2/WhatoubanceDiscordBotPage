@@ -1,0 +1,56 @@
+Privacy Policy
+1. Introduction
+
+This Privacy Policy explains how the Bot handles user data.
+
+2. Data We Collect
+
+We may process the following data:
+
+Discord User ID
+Riot Games account identifiers (Riot ID, PUUID)
+TFT ranked data (rank, region, stats)
+Discord server and role information (for role assignment)
+
+We do not collect passwords.
+
+3. How We Use Data
+
+Data is used only to:
+
+link Discord and Riot accounts
+assign Discord roles based on TFT rank
+provide game-related information upon request
+
+We do not sell or share user data.
+
+4. Data Storage
+
+We do not store personal data longer than necessary.
+
+If account linking is used, data is kept only while the account is linked and removed when unlinked.
+
+5. Third-Party Services
+
+The Bot uses:
+
+Riot Games API
+Discord API
+
+Riot Games Privacy Notice: https://www.riotgames.com/en/privacy-notice
+
+6. Security
+
+We do not permanently store sensitive personal data. Any temporary processing is only used to operate the Bot.
+
+7. User Rights (GDPR)
+
+Users may request access to or deletion of their linked data at any time by contacting us.
+
+8. Changes
+
+This Privacy Policy may be updated at any time. Updates will be posted on this page.
+
+9. Contact
+
+📧 whatoubot@gmail.com

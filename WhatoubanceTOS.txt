@@ -1,0 +1,48 @@
+Terms of Service
+1. Introduction
+
+This Discord Bot (“the Bot”) provides Teamfight Tactics (TFT) features such as account linking and role assignment using the official Riot Games API.
+
+By using the Bot, you agree to these Terms.
+
+2. Riot Games Disclaimer
+
+This Bot is not endorsed, sponsored, or affiliated with Riot Games, Inc.
+
+Riot Games, League of Legends, and Teamfight Tactics are trademarks of Riot Games, Inc.
+
+3. Service Description
+
+The Bot allows users to:
+
+Link their Riot Games account to Discord
+Retrieve TFT-related statistics (rank, region, match data)
+Automatically assign Discord roles based on TFT rank
+4. Riot API Usage
+
+This Bot uses the official Riot Games API to access publicly available game data.
+
+All data provided remains the property of Riot Games, Inc.
+
+We comply with Riot Games Developer Policies and API Terms.
+
+5. User Responsibilities
+
+Users agree not to:
+
+misuse or abuse the Bot
+attempt to manipulate role assignments
+disrupt or overload the service
+bypass Riot API limitations
+6. Availability
+
+The Bot depends on third-party services (Riot Games API and Discord API) and may not always be available.
+
+7. Changes
+
+We may update these Terms at any time. Continued use of the Bot means acceptance of the updated version.
+
+8. Contact
+
+📧 whatoubot@gmail.com
+
